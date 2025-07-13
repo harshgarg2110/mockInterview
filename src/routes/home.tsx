@@ -1,9 +1,10 @@
+import { UserButton } from "@clerk/clerk-react"
 
 
 const HomePage = () => {
   return (
     <div>
-      Home Page
+      Home Page <UserButton />
     </div>
   )
 }

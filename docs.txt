@@ -5,6 +5,4 @@
 
 
 
-
-
-
+react-fast-Marquee

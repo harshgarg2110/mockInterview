@@ -6,3 +6,7 @@
 
 
 react-fast-Marquee
+pnpm dlx shadcn@latest add separator
+ pnpm dlx shadcn@latest add sonner
+pnpm dlx shadcn@latest add breadcrumb
+pnpm dlx shadcn@latest add form

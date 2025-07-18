@@ -152,6 +152,7 @@ export const Feedback = () => {
                   activeFeed === feed.id
                     ? "bg-gradient-to-r from-purple-50 to-blue-50"
                     : "hover:bg-gray-50"
+                    
                 )}
               >
                 <span>{feed.question}</span>

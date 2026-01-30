@@ -150,10 +150,4 @@ Feel free to reach out for collaboration, feedback, or contributions.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ⭐ If you found this project helpful, don’t forget to give it a star on GitHub!

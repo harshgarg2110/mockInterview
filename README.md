@@ -125,26 +125,22 @@ VITE_FIREBASE_APP_ID=YOUR_API_KEY_REF
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+All screenshots are available in the `output` folder.
 
-![Home Page](screenshots/index.png)
+### 🏠 Index Page
+![Index Page](output/indexpage.png)
 
 ### 📊 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](output/dashboard.png)
 
 ### 🎙️ Interview Interface
-
-![Interview Interface](screenshots/interview.png)
+![Interview Interface](output/interviewinterface.png)
 
 ### 📈 Result Page
-
-![Result Page](screenshots/result.png)
+![Result Page](output/resultpage.png)
 
 ### 🤖 AI Feedback
-
-![AI Feedback](screenshots/feedback.png)
-
+![AI Feedback](output/aifeedback.png)
 ---
 
 ## 🧑‍💻 Author

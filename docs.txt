@@ -12,3 +12,9 @@ pnpm dlx shadcn@latest add form
 
 pnpm add @google/generative-ai
 
+for changes to reflect 
+
+1. make changes
+2. commit to github
+3. pnpm run build
+4. firebase deploy
